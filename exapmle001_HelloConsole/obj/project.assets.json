@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miwan\\Desktop\\Examples\\exapmle001_HelloConsole\\exapmle001_HelloConsole.csproj",
+      "projectUniqueName": "C:\\Users\\miwan\\OneDrive\\Рабочий стол\\C-Lection01\\exapmle001_HelloConsole\\exapmle001_HelloConsole.csproj",
       "projectName": "exapmle001_HelloConsole",
-      "projectPath": "C:\\Users\\miwan\\Desktop\\Examples\\exapmle001_HelloConsole\\exapmle001_HelloConsole.csproj",
+      "projectPath": "C:\\Users\\miwan\\OneDrive\\Рабочий стол\\C-Lection01\\exapmle001_HelloConsole\\exapmle001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\miwan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miwan\\Desktop\\Examples\\exapmle001_HelloConsole\\obj\\",
+      "outputPath": "C:\\Users\\miwan\\OneDrive\\Рабочий стол\\C-Lection01\\exapmle001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miwan\\AppData\\Roaming\\NuGet\\NuGet.Config"

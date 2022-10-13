@@ -13,3 +13,18 @@ C:\Users\miwan\Desktop\Examples\exapmle001_HelloConsole\obj\Debug\net6.0\refint\
 C:\Users\miwan\Desktop\Examples\exapmle001_HelloConsole\obj\Debug\net6.0\exapmle001_HelloConsole.pdb
 C:\Users\miwan\Desktop\Examples\exapmle001_HelloConsole\obj\Debug\net6.0\exapmle001_HelloConsole.genruntimeconfig.cache
 C:\Users\miwan\Desktop\Examples\exapmle001_HelloConsole\obj\Debug\net6.0\ref\exapmle001_HelloConsole.dll
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\bin\Debug\net6.0\exapmle001_HelloConsole.exe
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\bin\Debug\net6.0\exapmle001_HelloConsole.deps.json
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\bin\Debug\net6.0\exapmle001_HelloConsole.runtimeconfig.json
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\bin\Debug\net6.0\exapmle001_HelloConsole.dll
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\bin\Debug\net6.0\exapmle001_HelloConsole.pdb
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\obj\Debug\net6.0\exapmle001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\obj\Debug\net6.0\exapmle001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\obj\Debug\net6.0\exapmle001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\obj\Debug\net6.0\exapmle001_HelloConsole.AssemblyInfo.cs
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\obj\Debug\net6.0\exapmle001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\obj\Debug\net6.0\exapmle001_HelloConsole.dll
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\obj\Debug\net6.0\refint\exapmle001_HelloConsole.dll
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\obj\Debug\net6.0\exapmle001_HelloConsole.pdb
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\obj\Debug\net6.0\exapmle001_HelloConsole.genruntimeconfig.cache
+C:\Users\miwan\OneDrive\Рабочий стол\C-Lection01\exapmle001_HelloConsole\obj\Debug\net6.0\ref\exapmle001_HelloConsole.dll
